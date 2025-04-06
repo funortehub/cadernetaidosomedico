@@ -1,0 +1,20 @@
+{
+  "name": "Acesso Médico - Caderneta Idoso",
+  "short_name": "Acesso Médico",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4D6057",
+  "theme_color": "#4D6057",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/z8sFZHC.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/z8sFZHC.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
